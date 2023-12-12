@@ -5,10 +5,10 @@
 Network Working Group                                           M. Sethi
 Internet-Draft                                          Aalto University
 Intended status: Informational                               B. Sarikaya
-Expires: 17 March 2024                                                  
+Expires: 14 June 2024                                                   
                                                       D. Garcia-Carrillo
                                                     University of Oviedo
-                                                       14 September 2023
+                                                        12 December 2023
 
 
   Terminology and processes for initial security setup of IoT devices
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 17 March 2024.
+   This Internet-Draft will expire on 14 June 2024.
 
 Copyright Notice
 
@@ -1202,11 +1202,9 @@ Table of Contents
 
 7.  Informative References
 
-   [dpp]      Wi-Fi Alliance, "Wi-Fi Device Provisioning Protocol
-              (DPP)", Wi-Fi Alliance Specification version 1.1, 2018,
-              <https://www.wi-
-              fi.org/download.php?file=/sites/default/files/private/Wi-
-              Fi_Easy_Connect_Specification_v2.0.pdf>.
+   [dpp]      Wi-Fi Alliance, "Wi-Fi Easy Connect Specification", Wi-Fi
+              Alliance Version 3.0, 2018,
+              <https://www.wi-fi.org/wi-fi-download/35330>.
 
    [fidospec] Fast Identity Online Alliance, "FIDO Device Onboard
               Specification", Fido Alliance Version: 1.1, April 2022,
@@ -1223,7 +1221,7 @@ Table of Contents
               networks–Port-Based Network Access Control", 2020,
               <https://1.ieee802.org/security/802-1x/>.
 
-   [LoRaWAN]  LoRa Alliance, "LoRa Specification V1.1", LoRa
+   [LoRaWAN]  LoRa Alliance, "LoRa Specification", LoRa
               Alliance Version: 1.1, October 2017, <https://lora-
               alliance.org/resource_hub/lorawan-specification-v1-1/>.
 
